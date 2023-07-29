@@ -1,0 +1,68 @@
+Beurre;270
+Fromage;410
+Œuf;390
+Œuf Fromage;510
+Jambon;390
+Jambon Œuf;495
+Jambon Fromage;510
+Complète;680
+Complète Salade;710
+Complète Tomate;710
+Complète Tomate;710
+Complète Tomate Salade;790
+Complète Oignons;720
+Complète Champignons;720
+Super Complète;720
+Fromage Crème Fraîche;660
+Champignons Crème et ciboulette;580
+Chèvre chaud Salade;680
+Chèvre Chaud Noix Miel et Salade;790
+Camembert Tomate provençale;620
+Andouille de Guémené Pomme fruit;690
+Andouille de Guémené Champignons Fromage;810
+Ratatouille Œuf;490
+Ratatouille Fromage Œuf;610
+Saumon Ecosse;850
+Poitrine Fumée;450
+Poitrine Fumée Œuf Fromage;650
+Oignon;420
+Champignons;490
+Andouille de Guémené;630
+L’Argoat;960
+La Normande;890
+La Provençale;810
+La Savoyarde;910
+La Chevrette;840
+La Végétarienne;810
+La Phare Ouest;860
+Ar Indez;840
+Armor;1090
+La St Jacques;1090
+Sucre;260
+Beurre Sucre;300
+Confiture : Fraise - Myrtille - Suggestion;400
+Citron;400
+Miel;410
+Miel Citron;490
+Chocolat;440
+Chocolat Amandes Grillées;510
+Chocolat Noix de coco râpée;510
+Chocolat Chantilly;570
+Poire Chocolat;560
+Caramel au beurre salée;460
+Banane;390
+Banane Chocolat;540
+Banane Chocolat Chantilly;650
+Pommes cuites au beurre;470
+Pommes cuites au beurre - banane;570
+Pommes caramel;580
+Frangipane;460
+Poire frangipane;540
+Frangipane Chocolat;550
+Cointreau;580
+Calva;580
+Grand Marnier;580
+Rhum;580
+Pomme Calva;680
+Banane Flambée;680
+Chocolat Flambée Grand Marnier;680
