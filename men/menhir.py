@@ -75,4 +75,4 @@ t=trifusion(t)
 
 print(mainfunct())
 
-print("--- %s seconds ---" % (time.time() - start_time))
+print("--- %s seconds ---" % (time.time() - start_time))#test
